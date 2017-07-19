@@ -1,0 +1,50 @@
+body {
+  padding-top: 50px;
+  background-color: rgba(13, 119, 177,0.7);
+  color: rgb(34, 34, 34);
+  font-family: 'Roboto Slab', serif;
+  font-size: 20px;
+  line-height: 70%;
+}
+
+ul {
+  margin: auto;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.starter-template-two {
+  text-align: center;
+}
+
+.social-media {
+  background-color: rgb(34, 34, 34);
+  border-radius: 5px;
+  margin-bottom: 60px;
+}
+
+.social-media li {
+  padding: 5px 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  color: white;
+}
+
+.social-media li a {
+  color: white;
+  font-size: 40px;
+  background-color: transparent;
+  padding: 5px 5px;
+  border-radius: 5px;
+}
+
+.social-media li a:hover {
+  color: white;
+  background-color: white;
+  color: rgb(34, 34, 34);
+  transition: 0.
+}
